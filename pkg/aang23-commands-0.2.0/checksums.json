@@ -3,7 +3,7 @@
   "Rakefile": "20b80e526e351a74df2001f504e756d2",
   "manifests/commands.pp": "90dab1bcadcd937cbc4a9a30fdba0131",
   "manifests/init.pp": "abe1593921de801ef14a555f452d205c",
-  "metadata.json": "4174fc4ea28658b62ecd9879b1919df6",
+  "metadata.json": "06df7cdf33d2babbc22fcb9798e3008d",
   "spec/classes/init_spec.rb": "d506768ddbf77ce9db739b110fea4bea",
   "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
   "tests/init.pp": "160d77cb21ec84b0a5ada85b50f58290"
