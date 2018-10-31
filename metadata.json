@@ -1,0 +1,16 @@
+{
+  "name": "aang23-commands",
+  "version": "0.1.0",
+  "author": "aang23",
+  "summary": "Wrapper around the exec resource",
+  "license": "MIT",
+  "source": "https://github.com/Aang23/puppet-commands.git",
+  "project_page": "https://github.com/Aang23/puppet-commands",
+  "issues_url": "https://github.com/Aang23/puppet-commands/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
